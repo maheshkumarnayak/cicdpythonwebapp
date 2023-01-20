@@ -80,7 +80,7 @@ stages:
             displayName: 'Use Python version'
 
           - task: AzureWebApp@1
-            displayName: 'Deploy Azure Web App : cicdpythonwebapp'
+            displayName: 'Deploy Azure Web App : cicdpythonwebapp2'
             inputs:
               azureSubscription: $(azureServiceConnectionId)
               appName: $(webAppName)
