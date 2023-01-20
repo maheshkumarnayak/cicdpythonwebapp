@@ -17,7 +17,7 @@ variables:
   vmImageName: 'ubuntu-20.04'
 
   # Environment name
-  environmentName: 'cicdpythonwebapp2'
+  environmentName: 'cicdpythonwebapp'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
