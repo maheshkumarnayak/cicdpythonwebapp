@@ -11,13 +11,13 @@ variables:
   azureServiceConnectionId: 'd1ca0e00-b87d-4379-8133-c880d5fb99c6'
 
   # Web app name
-  webAppName: 'cicdpythonwebapp'
+  webAppName: 'cicdpythonwebapp2'
 
   # Agent VM image name
   vmImageName: 'ubuntu-20.04'
 
   # Environment name
-  environmentName: 'cicdpythonwebapp'
+  environmentName: 'cicdpythonwebapp2'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
